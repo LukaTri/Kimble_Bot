@@ -1,0 +1,8 @@
+prefix=/home/kimble/catkin_ws/install
+
+Name: gou01_dingo_description
+Description: Description of gou01_dingo_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

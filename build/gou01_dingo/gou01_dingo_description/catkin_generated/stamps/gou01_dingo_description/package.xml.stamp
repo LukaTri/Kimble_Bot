@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+	<name>gou01_dingo_description</name>
+	<version>0.0.0</version>
+	<description>A repository for the gou01_dingo_description</description>
+	<maintainer email="code@clearpathdingoics.com">Clearpath Team</maintainer>
+	<license>BSD</license>
+	<buildtool_depend>catkin</buildtool_depend>
+	<run_depend>dingo_description</run_depend>
+
+</package>

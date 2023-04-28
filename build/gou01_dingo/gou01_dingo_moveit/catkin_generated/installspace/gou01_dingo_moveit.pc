@@ -1,0 +1,8 @@
+prefix=/home/kimble/catkin_ws/install
+
+Name: gou01_dingo_moveit
+Description: Description of gou01_dingo_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
